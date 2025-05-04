@@ -23,7 +23,7 @@ A simple CRUD blog application built using **Node.js**, **Express.js**, and **EJ
 
 express-blog-app/
 ├── public/                  # Public assets (CSS, JS, images)
-│   ├── style.css/           # Stylesheets for the app                 
+│   ├── style.css            # Stylesheets for the app
 ├── views/                   # EJS template files for rendering HTML
 │   ├── index.ejs            # Displays all posts
 │   ├── new.ejs              # Form to create a new post
@@ -33,5 +33,6 @@ express-blog-app/
 ├── app.js                   # Main application file with routes and logic
 ├── package.json             # Project metadata and dependencies
 ├── .gitignore               # Specifies files/folders to ignore (like node_modules)
+
 
 
